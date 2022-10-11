@@ -1,0 +1,6 @@
+framework module Pods_Clayful {
+  umbrella header "Pods-Clayful-umbrella.h"
+
+  export *
+  module * { export * }
+}
