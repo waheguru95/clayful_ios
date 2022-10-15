@@ -25,6 +25,7 @@ enum AppColor {
 //MARK:- Header Param
 enum Param {
     static let origin = "Origin"
+    static let apiKey = "X-APP-ID"
 }
 
 // MARK: - STORYBOARD TYPES

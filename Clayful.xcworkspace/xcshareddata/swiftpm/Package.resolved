@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "customerio-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/customerio/customerio-ios.git",
+      "state" : {
+        "revision" : "743494081aa6ad21f23df22b29f61e51edc39c91",
+        "version" : "1.2.0-beta.4"
+      }
+    },
+    {
+      "identity" : "gist-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/bourbonltd/gist-apple.git",
+      "state" : {
+        "revision" : "31c95f0c7c535ce75c07e806e993c4c603613b34",
+        "version" : "2.1.3"
+      }
+    }
+  ],
+  "version" : 2
+}
