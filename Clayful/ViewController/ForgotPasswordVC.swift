@@ -23,7 +23,7 @@ class ForgotPasswordVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //txtFldEmail.text = "infothreeg@gmail.com"
+        //txtFldEmail.text = "Aditi.3ginfo@gmail.com"
         btnResetEmail.setTitleFont("Send instructions", fontName: AppFontName.mulishExtraBold, size: isIpadView ? 27 : 19)
         let formatStr = NSMutableAttributedString()
         formatStr.attributedString(str1: AppAlerts.titleValue.forgotPasswordDescript, color: AppColor.appBlueColor, font: UIFont(name: AppFontName.mulishMedium, size: isIpadView ? 27 : 19)!, lineHeight: 1.3, align: TextAlign.left)

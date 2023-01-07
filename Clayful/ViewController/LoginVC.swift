@@ -42,7 +42,7 @@ class LoginVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        txtFldEmail.text = "infothreeg@gmail.com" // "howard.benioff@mindfulnessmiddle.org" //
+//        txtFldEmail.text = "Aditi.3ginfo@gmail.com" // "howard.benioff@mindfulnessmiddle.org" //
 //        txtFldPassword.text = "12345678" // "12345678" //
         txtFldEmail.textContentType = .username
         txtFldEmail.keyboardType = .emailAddress

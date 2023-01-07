@@ -34,7 +34,7 @@ var isIpadView:Bool {
 func headers() ->  [String:String] {
     let headers = [
         Param.origin:AppInfo.appUrlHeader,
-        Param.apiKey:"1320135351"
+        Param.apiKey:"app_cl6n1dm04001f0znngi290pyo"
         
     ]
     return headers

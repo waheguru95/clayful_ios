@@ -22,7 +22,8 @@ enum Apis {
     static let forgotPassword = ServerUrl.apiServerUrl + "send-reset-password-email/"
     static let resetPassword = ServerUrl.apiServerUrl + "reset-password/"
     
-    static let userAuthorization = "https://sleepy-shelf-99425.herokuapp.com/api/get_token/"
+    static let userAuthorization = "http://34.27.91.26:8000/api/get_token/"
+    //"https://sleepy-shelf-99425.herokuapp.com/api/get_token/"
 }
 
 

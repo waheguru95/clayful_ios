@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/customerio/customerio-ios.git",
       "state" : {
-        "revision" : "743494081aa6ad21f23df22b29f61e51edc39c91",
-        "version" : "1.2.0-beta.4"
+        "revision" : "f8b000489dde8457e9dca37acb657a87efb1db13",
+        "version" : "1.2.7"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://gitlab.com/bourbonltd/gist-apple.git",
       "state" : {
-        "revision" : "31c95f0c7c535ce75c07e806e993c4c603613b34",
-        "version" : "2.1.3"
+        "revision" : "408077c633807dc00fbce263cf513f69ab40a75b",
+        "version" : "2.2.2"
       }
     }
   ],
